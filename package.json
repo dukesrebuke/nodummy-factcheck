@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-netlify": "^5.2.4",
-    "@sveltejs/kit": "^2.50.1",
+    "@sveltejs/kit": "^2.50.2",
     "autoprefixer": "^10.4.20",
     "netlify-cli": "^17.37.4",
     "postcss": "^8.4.49",
