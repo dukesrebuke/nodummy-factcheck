@@ -1,8 +1,4 @@
 export const SOURCES = [
-  keyFacts?: string[];
-};
-
-export const SOURCES: Source[] = [
   // ============ IMMIGRATION ============
   {
     title: "Immigration and Crime: Assessing the Evidence",
