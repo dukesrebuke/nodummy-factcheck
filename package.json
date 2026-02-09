@@ -9,7 +9,7 @@
   "dev:netlify": "netlify dev",
   "check": "svelte-check --tsconfig ./jsconfig.json",
   "check:watch": "svelte-check --tsconfig ./jsconfig.json --watch"
-}
+},
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@sveltejs/adapter-auto": "^7.0.0",
