@@ -7,7 +7,7 @@ const config = {
 
   kit: {
     adapter: adapter({
-      // Don't try to append to _headers if it doesn't exist
+      edge: false,
       split: false
     })
   }
