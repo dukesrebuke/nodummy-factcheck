@@ -1,6 +1,6 @@
 import type { Handler } from "@netlify/functions";
 import OpenAI from "openai";
-import { SOURCES } from "../../src/lib/sources";
+import { SOURCES } from "../../src/lib/sources.js";
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY!,
