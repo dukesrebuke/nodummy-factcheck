@@ -6,6 +6,6 @@
   directory = "netlify/functions"
 
 [dev]
-  command = "npm run dev"
+  command = "npm run build"
   targetPort = 5173
   functionsPort = 9999
